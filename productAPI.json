@@ -1,0 +1,17 @@
+[
+  {
+    "id": "cola",
+    "productSvg": "productSVG/soda.svg",
+    "logoSvg": "logoSVG/logoExample.svg"
+  },
+  {
+    "id": "grape",
+    "productSvg": "productSVG/soda.svg",
+    "logoSvg": "logoSVG/grapeLogo.svg"
+  },
+  {
+    "id": "lime",
+    "productSvg": "productSVG/soda.svg",
+    "logoSvg": "logoSVG/limeLogo.svg"
+  }
+]
